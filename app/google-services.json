@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "485009725155",
+    "firebase_url": "https://heartbeat-41beb.firebaseio.com",
+    "project_id": "heartbeat-41beb",
+    "storage_bucket": "heartbeat-41beb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485009725155:android:17aec62e4e7345d6",
+        "android_client_info": {
+          "package_name": "io.github.samik_saha.heartbeat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485009725155-0moisvchh10bc08j308jos0eor4pbrce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBUCEv0kJt1ID_TWBXcOzqJMBO0jAzr9I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
